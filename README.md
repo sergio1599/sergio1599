@@ -1,4 +1,4 @@
-# Hello World 👋
+# Hello World <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## I'm Sergio Quintana, I'm currently studying Computer Science at the [UPTC](http://www.uptc.edu.co/).
 
