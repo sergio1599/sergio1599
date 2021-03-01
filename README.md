@@ -24,6 +24,8 @@ Contact me 🌐:
 [<img src="https://user-images.githubusercontent.com/57324758/109564522-2e532b00-7aaf-11eb-9bc6-ba77f6fc5963.png" width="22" height="22"/>](https://www.instagram.com/s_alejandro_15/)
 [<img src="https://user-images.githubusercontent.com/57324758/109566122-6ce9e500-7ab1-11eb-859c-718023da8360.png" width="22" height="22"/>](https://www.linkedin.com/in/sergio-quintana-926566207/)
 
+ ### Profile Views :<br>
+  <img src="https://profile-counter.glitch.me/sergio1599/count.svg" />
 
 <h2>  Stats 💻</h2>
 
