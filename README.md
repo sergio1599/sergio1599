@@ -21,12 +21,9 @@ Contact me 🌐:
   <p>Next<p/>
 </details>
 
-<details>
-  <summary>&nbsp;&nbsp;&nbsp;<b>Stats</b></summary>
-	<br/>
-	<img src="https://jf-gh-stats.vercel.app/api?username=sergio1599&show_icons=true&count_private=true&title_color=3867D6&icon_color=3867D6" alt="GitHub Stats" align="top"/>
-	<img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=sergio1599&layout=compact&hide=java&title_color=3867D6&icon_color=3867D6" alt="GitHub Top Languages"         align="top"/>
-</details>
+<h2>  Stats 💻</h2>
+
+![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=reeveng&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <!--
 **sergio1599/sergio1599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
