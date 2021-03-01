@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ## I'm Sergio Quintana, I'm currently studying Computer Science at the [UPTC](http://www.uptc.edu.co/).
 
