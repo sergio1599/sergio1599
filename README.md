@@ -11,6 +11,10 @@ class Bio extends Developer {
   location = 'Duitama, Boyacá';
 }
 
+class AboutMe extends Developer {
+  hobbies = ['Gaming', 'Listen Music', 'Watch Series', 'Talking']; 
+}
+
 class Skills extends Developer {
   languages  = ['Java', 'Javascrip', 'C++', 'Kotlin'];
   databases  = ['MySQL'];
