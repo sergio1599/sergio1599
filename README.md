@@ -16,9 +16,9 @@ class AboutMe extends Developer {
 }
 
 class Skills extends Developer {
-  languages  = ['Java', 'Javascrip', 'C++', 'Kotlin'];
+  languages  = ['Java', 'Javascrip', 'C++', 'Kotlin', 'Bash'];
   databases  = ['MySQL'];
-  frameworks = ['React'];
+  frameworks = ['React', 'Bootstrap', Bulma];
 }
 ```
 
