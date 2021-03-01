@@ -1,6 +1,22 @@
-# Hi there 👋
+# Hello World 👋
 
 ## I'm Sergio Quintana, I'm currently studying Computer Science at the [UPTC](http://www.uptc.edu.co/).
+
+```js
+import Developer from 'sergio1599';
+
+class Bio extends Developer {
+  name     = 'Sergio Quintana';
+  title    = 'Computer Science';
+  location = 'Duitama, Boyacá';
+}
+
+class Skills extends Developer {
+  languages  = ['Java', 'Javascrip', 'C++', 'Kotlin'];
+  databases  = ['MySQL'];
+  frameworks = ['React'];
+}
+```
 
 Contact me 🌐:
 
@@ -8,18 +24,6 @@ Contact me 🌐:
 [<img src="https://user-images.githubusercontent.com/57324758/109564522-2e532b00-7aaf-11eb-9bc6-ba77f6fc5963.png" width="22" height="22"/>](https://www.instagram.com/s_alejandro_15/)
 [<img src="https://user-images.githubusercontent.com/57324758/109566122-6ce9e500-7ab1-11eb-859c-718023da8360.png" width="22" height="22"/>](https://www.linkedin.com/in/sergio-quintana-926566207/)
 
-
-<details>
-	<summary>:computer:&nbsp;&nbsp;&nbsp;<b>Skills</b></summary>
-	<br/>
-  <p>Android<p/>
-  <p>Kotlin<p/>
-  <p>Java<p/>
-  <p>HTML5<p/>
-  <p>CSS3<p/>
-  <p>React<p/>
-  <p>Next<p/>
-</details>
 
 <h2>  Stats 💻</h2>
 
