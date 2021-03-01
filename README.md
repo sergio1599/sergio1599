@@ -9,7 +9,24 @@ Contact me 🌐:
 [<img src="https://user-images.githubusercontent.com/57324758/109566122-6ce9e500-7ab1-11eb-859c-718023da8360.png" width="22" height="22"/>](https://www.linkedin.com/in/sergio-quintana-926566207/)
 
 
+<details>
+	<summary>:computer:&nbsp;&nbsp;&nbsp;<b>Skills</b></summary>
+	<br/>
+  <p>Android<p/>
+  <p>Kotlin<p/>
+  <p>Java<p/>
+  <p>HTML5<p/>
+  <p>CSS3<p/>
+  <p>React<p/>
+  <p>Next<p/>
+</details>
 
+<details>
+  <summary>&nbsp;&nbsp;&nbsp;<b>Stats</b></summary>
+	<br/>
+	<img src="https://jf-gh-stats.vercel.app/api?username=sergio1599&show_icons=true&count_private=true&title_color=3867D6&icon_color=3867D6" alt="GitHub Stats" align="top"/>
+	<img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=sergio1599&layout=compact&hide=java&title_color=3867D6&icon_color=3867D6" alt="GitHub Top Languages"         align="top"/>
+</details>
 
 <!--
 **sergio1599/sergio1599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
