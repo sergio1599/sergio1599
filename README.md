@@ -42,6 +42,9 @@ class Skills extends Developer {
 
 ![Sergio github stats](https://github-readme-stats.vercel.app/api?username=sergio1599&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/12125370035)
 
  ## Profile Views : <br>
   <img src="https://profile-counter.glitch.me/sergio1599/count.svg" />
