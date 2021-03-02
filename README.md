@@ -21,9 +21,7 @@ class Skills extends Developer {
   frameworks = ['React', 'Bootstrap', 'Bulma'];
 }
 ```
-
-## Contact me 🌐:
-
+<h2>  Contact me 🌐</h2>
 
 <a href="https://twitter.com/AlejoQ_15/">
   <img align="left" alt="Sergio Twitter" width="22px" src="https://user-images.githubusercontent.com/57324758/109565746-e9c88f00-7ab0-11eb-8a59-3599ca53d8c0.png" />
@@ -42,6 +40,8 @@ class Skills extends Developer {
 
 
 ![Sergio github stats](https://github-readme-stats.vercel.app/api?username=sergio1599&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+<h2> Music🎶🎧</h2>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12125370035&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
