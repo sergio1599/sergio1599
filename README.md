@@ -24,6 +24,7 @@ class Skills extends Developer {
 
 Contact me 🌐:
 
+
 <a href="https://twitter.com/AlejoQ_15/">
   <img align="left" alt="Sergio Twitter" width="22px" src="https://user-images.githubusercontent.com/57324758/109565746-e9c88f00-7ab0-11eb-8a59-3599ca53d8c0.png" />
 </a>
@@ -35,7 +36,7 @@ Contact me 🌐:
 <a href="https://www.instagram.com/s_alejandro_15/">
   <img align="left" alt="Sergio Instagram," width="22px" src="https://user-images.githubusercontent.com/57324758/109564522-2e532b00-7aaf-11eb-9bc6-ba77f6fc5963.png" />
 </a>
-
+<br>
 
 <h2>  Stats 💻</h2>
 
