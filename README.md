@@ -45,7 +45,7 @@ class Skills extends Developer {
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12125370035&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
- ## Profile Views : <br>
+ <h2> Profile Views </h2> <br>
   <img src="https://profile-counter.glitch.me/sergio1599/count.svg" />
   
 
