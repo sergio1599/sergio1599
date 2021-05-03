@@ -23,21 +23,22 @@ class Skills extends Developer {
 ```
 <h2>  Contact me 🌐</h2>
 
-<a href="https://twitter.com/AlejoQ_15/">
-  <img align="left" alt="Sergio Twitter" width="22px" src="https://user-images.githubusercontent.com/57324758/109565746-e9c88f00-7ab0-11eb-8a59-3599ca53d8c0.png" />
-</a>
-
+<p>
 <a href="https://www.linkedin.com/in/sergio-quintana-926566207/">
-  <img align="left" alt="Sergio linkedin," width="22px" src="https://user-images.githubusercontent.com/57324758/109566122-6ce9e500-7ab1-11eb-859c-718023da8360.png" />
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a>
-
+<a href="https://twitter.com/AlejoQ_15/">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+</a> 
 <a href="https://www.instagram.com/s_alejandro_15/">
-  <img align="left" alt="Sergio Instagram," width="22px" src="https://user-images.githubusercontent.com/57324758/109564522-2e532b00-7aaf-11eb-9bc6-ba77f6fc5963.png" />
+  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
 </a>
+</p>
+
+
 <br>
 
 <h2>  Stats 💻</h2>
-
 
 ![Sergio github stats](https://github-readme-stats.vercel.app/api?username=sergio1599&show_icons=true&title_color=A77ECB&icon_color=FEEA94&text_color=7EDAC9&bg_color=151515)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergio1599&layout=compact&title_color=A77ECB&icon_color=FEEA94&text_color=7EDAC9&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
