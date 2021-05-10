@@ -24,7 +24,7 @@ class Skills extends Developer {
 <h2>  Contact me 🌐</h2>
 
 <p>
-<a href="https://www.linkedin.com/in/sergio-quintana-926566207/">
+<a href="https://www.linkedin.com/in/sergio-quintana-926566207/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a>
 <a href="https://twitter.com/AlejoQ_15/">
