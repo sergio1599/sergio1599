@@ -34,7 +34,7 @@ class Skills extends Developer {
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
 </a>
 <a href="https://sergiodevpage.vercel.app/">
-  <img src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" height=25>
+  <img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" height=25>
 </a>  
 </p>
 
