@@ -39,15 +39,12 @@ class Skills extends Developer {
 </p>
 
 
-<br>
-
 <h2>  Stats 💻</h2>
 
 ![Sergio github stats](https://github-readme-stats.vercel.app/api?username=sergio1599&show_icons=true&title_color=A77ECB&icon_color=FEEA94&text_color=7EDAC9&bg_color=151515)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergio1599&layout=compact&title_color=A77ECB&icon_color=FEEA94&text_color=7EDAC9&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<h2> Music🎶🎧</h2>
+<h2> Music 🎶</h2>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12125370035&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=12125370035&redirect=true)
 
