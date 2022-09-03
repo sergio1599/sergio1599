@@ -17,7 +17,7 @@ class AboutMe extends Developer {
 }
 
 class Skills extends Developer {
-  code  = ['Javascript','Node', 'Java', 'Typescript', 'Bash', 'HTML', 'CSS', ];
+  code  = ['Javascript','Node', 'Java', 'Typescript', 'Bash', 'HTML', 'CSS' ];
   databases  = ['MySQL', 'MongoDB'];
   frameworks = ['React', 'NextJS', 'Docker'];
   tools: ['VsCode', 'Git', 'GitHub', 'PostMan', 'Docker'],
