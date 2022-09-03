@@ -1,6 +1,4 @@
-# Hello World <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-## <img alt="parrot" src="https://camo.githubusercontent.com/9ed64b042a76b8a97016e877cbaee0d6df224a148034afef658d841cf0cd1791/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" width="30px"> I'm Sergio Quintana, I'm currently studying Software Engineer at the [UPTC](http://www.uptc.edu.co/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=8F6DAE&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hello+World+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Sergio+Quintana;I'm+currently+studying+Software+Engineer+at+the+UPTC)](https://git.io/typing-svg)
 
 ```js
 import Developer from 'sergio1599';
@@ -36,7 +34,7 @@ class Skills extends Developer {
 </a>
 </p>
 
-<h2>  Stats 💻</h2>
+<h2>  Stats <img alt="parrot" src="https://camo.githubusercontent.com/9ed64b042a76b8a97016e877cbaee0d6df224a148034afef658d841cf0cd1791/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" width="30px"></h2>
 
 ![Sergio github stats](https://github-readme-stats.vercel.app/api?username=sergio1599&show_icons=true&title_color=A77ECB&icon_color=FEEA94&text_color=7EDAC9&bg_color=151515)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergio1599&layout=compact&title_color=A77ECB&icon_color=FEEA94&text_color=7EDAC9&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
