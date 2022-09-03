@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=8F6DAE&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hello+World+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Sergio+Quintana;I'm+currently+studying+Software+Engineer+at+the+UPTC)](https://git.io/typing-svg)
+<p align="center">
+    <img src="href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&color=8F6DAE&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hello+World+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Sergio+Quintana;I'm+currently+studying+Software+Engineer+at+the+UPTC">
+</p>
 
 ```js
 import Developer from 'sergio1599';
@@ -20,7 +22,7 @@ class Skills extends Developer {
 }
 ```
 
-<h2>  Contact me 🌐</h2>
+<h2>Contact 🌐</h2>
 
 <p>
 <a href="https://www.linkedin.com/in/sergio-quintana-926566207/" target="_blank">
