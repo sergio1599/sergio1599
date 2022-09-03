@@ -9,7 +9,7 @@ class Bio extends Developer {****
   name     = 'Sergio Quintana';
   title    = 'Software Engineer';
   location = 'Duitama, Boyacá';
-  pronouns: ['he', 'him']
+  pronouns = ['he', 'him'];
 }
 
 class AboutMe extends Developer {
