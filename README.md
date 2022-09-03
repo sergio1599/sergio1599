@@ -5,7 +5,7 @@
 ```js
 import Developer from 'sergio1599';
 
-class Bio extends Developer {
+class Bio extends Developer {****
   name     = 'Sergio Quintana';
   title    = 'Software Engineer';
   location = 'Duitama, Boyacá';
@@ -22,7 +22,7 @@ class Skills extends Developer {
 }
 ```
 
-<h2>Contact 🌐</h2>
+<h2>  Contact me 🌐</h2>
 
 <p>
 <a href="https://www.linkedin.com/in/sergio-quintana-926566207/" target="_blank">
@@ -44,3 +44,4 @@ class Skills extends Developer {
 <h2> Music 🎶</h2>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12125370035&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=12125370035&redirect=true)
+
