@@ -1,26 +1,27 @@
 # Hello World <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## 👨🏻‍💻I'm Sergio Quintana, I'm currently studying Computer Science at the [UPTC](http://www.uptc.edu.co/).
+## <img alt="parrot" src="https://camo.githubusercontent.com/9ed64b042a76b8a97016e877cbaee0d6df224a148034afef658d841cf0cd1791/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" width="30px"> I'm Sergio Quintana, I'm currently studying Software Engineer at the [UPTC](http://www.uptc.edu.co/)
 
 ```js
 import Developer from 'sergio1599';
 
 class Bio extends Developer {
   name     = 'Sergio Quintana';
-  title    = 'Computer Science';
+  title    = 'Software Engineer';
   location = 'Duitama, Boyacá';
 }
 
 class AboutMe extends Developer {
-  hobbies = ['Gaming', 'Listen Music', 'Watch Series', 'Talking']; 
+  hobbies = ['Listen Music', 'Coding', 'Gaming',  'Watch Series', 'Talking'];
 }
 
 class Skills extends Developer {
-  languages  = ['Java', 'Javascrip', 'C++', 'Kotlin', 'Bash'];
-  databases  = ['MySQL'];
-  frameworks = ['React', 'Bootstrap', 'Bulma'];
+  code  = ['Javascript', 'Java', 'Typescript', 'Bash','HTML', 'CSS'];
+  databases  = ['MySQL', 'MongoDB'];
+  tools = ['React', 'NextJS', 'Node', 'Docker'];
 }
 ```
+
 <h2>  Contact me 🌐</h2>
 
 <p>
@@ -29,15 +30,11 @@ class Skills extends Developer {
 </a>
 <a href="https://twitter.com/AlejoQ_15/">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-</a> 
+</a>
 <a href="https://www.instagram.com/s_alejandro_15/">
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
 </a>
-<a href="https://sergiodevpage.vercel.app/">
-  <img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" height=25>
-</a>  
 </p>
-
 
 <h2>  Stats 💻</h2>
 
@@ -47,9 +44,3 @@ class Skills extends Developer {
 <h2> Music 🎶</h2>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12125370035&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=12125370035&redirect=true)
-
-  
-<p align="center">
-  Made with :heart: &nbsp;using GitHub Markdown
-</p>
-
