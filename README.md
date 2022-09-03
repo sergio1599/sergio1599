@@ -9,6 +9,7 @@ class Bio extends Developer {****
   name     = 'Sergio Quintana';
   title    = 'Software Engineer';
   location = 'Duitama, Boyacá';
+  pronouns: ['he', 'him']
 }
 
 class AboutMe extends Developer {
@@ -16,9 +17,10 @@ class AboutMe extends Developer {
 }
 
 class Skills extends Developer {
-  code  = ['Javascript', 'Java', 'Typescript', 'Bash','HTML', 'CSS'];
+  code  = ['Javascript','Node', 'Java', 'Typescript', 'Bash', 'HTML', 'CSS', ];
   databases  = ['MySQL', 'MongoDB'];
-  tools = ['React', 'NextJS', 'Node', 'Docker'];
+  frameworks = ['React', 'NextJS', 'Docker'];
+  tools: ['VsCode', 'Git', 'GitHub', 'PostMan', 'Docker'],
 }
 ```
 
