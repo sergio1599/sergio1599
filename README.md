@@ -5,22 +5,22 @@
 ```js
 import Developer from 'sergio1599';
 
-class Bio extends Developer {****
-  name     = 'Sergio Quintana';
-  title    = 'Software Engineer';
-  location = 'Duitama, Boyacá';
-  pronouns = ['he', 'him'];
+class Bio extends Developer {
+    name = 'Sergio Quintana';
+    title = 'Software Engineer';
+    location = 'Duitama, Boyacá';
+    pronouns = ['he', 'him'];
 }
 
 class AboutMe extends Developer {
-  hobbies = ['Listen Music', 'Coding', 'Gaming',  'Watch Series', 'Talking'];
+    hobbies = ['Listen Music', 'Coding', 'Gaming', 'Watch Series', 'Talking'];
 }
 
 class Skills extends Developer {
-  code  = ['Javascript','Node', 'Java', 'Typescript', 'Bash', 'HTML', 'CSS' ];
-  databases  = ['MySQL', 'MongoDB'];
-  frameworks = ['React', 'NextJS', 'Docker'];
-  tools = ['VsCode', 'Git', 'GitHub', 'PostMan', 'Docker'];
+    code = ['Javascript', 'Node', 'Java', 'Typescript', 'Bash', 'HTML', 'CSS'];
+    databases = ['MySQL', 'MongoDB'];
+    frameworks = ['React', 'NextJS', 'Docker'];
+    tools = ['VsCode', 'Git', 'GitHub', 'PostMan', 'Docker'];
 }
 ```
 
