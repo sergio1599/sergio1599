@@ -24,7 +24,7 @@ class Skills extends Developer {
 }
 ```
 
-<h2>  Contact me 🌐</h2>
+<h2> Contact 🌐</h2>
 
 <p>
 <a href="https://www.linkedin.com/in/sergio-quintana-926566207/" target="_blank">
@@ -38,10 +38,10 @@ class Skills extends Developer {
 </a>
 </p>
 
-<h2>  Stats <img alt="parrot" src="https://camo.githubusercontent.com/9ed64b042a76b8a97016e877cbaee0d6df224a148034afef658d841cf0cd1791/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" width="30px"></h2>
+<!-- <h2>  Stats <img alt="parrot" src="https://camo.githubusercontent.com/9ed64b042a76b8a97016e877cbaee0d6df224a148034afef658d841cf0cd1791/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" width="30px"></h2>
 
 ![Sergio github stats](https://github-readme-stats.vercel.app/api?username=sergio1599&show_icons=true&title_color=A77ECB&icon_color=FEEA94&text_color=7EDAC9&bg_color=151515)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergio1599&layout=compact&title_color=A77ECB&icon_color=FEEA94&text_color=7EDAC9&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergio1599&layout=compact&title_color=A77ECB&icon_color=FEEA94&text_color=7EDAC9&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <h2> Music 🎶</h2>
 
