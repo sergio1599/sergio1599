@@ -24,19 +24,6 @@ class Skills extends Developer {
 }
 ```
 
-<h2> Contact 🌐</h2>
-
-<p>
-<a href="https://www.linkedin.com/in/sergio-quintana-926566207/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-</a>
-<a href="https://twitter.com/AlejoQ_15/">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-</a>
-<a href="https://www.instagram.com/s_alejandro_15/">
-  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
-</a>
-</p>
 
 <h2> Music 🎶</h2>
 
