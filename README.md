@@ -8,7 +8,7 @@ import Developer from 'sergio1599';
 class Bio extends Developer {
     name = 'Sergio Quintana';
     title = 'Software Engineer';
-    location = 'Duitama, Boyacá';
+    location = 'Colombia';
     pronouns = ['he', 'him'];
 }
 
@@ -23,8 +23,3 @@ class Skills extends Developer {
     tools = ['VsCode', 'Git', 'GitHub', 'PostMan', 'Docker'];
 }
 ```
-
-
-<h2> Music 🎶</h2>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12125370035&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=12125370035&redirect=true)
