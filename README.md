@@ -9,6 +9,7 @@ class Bio extends Developer {
     name = 'Sergio Quintana';
     title = 'Software Engineer';
     location = 'Colombia';
+    currentOccupation = 'I am a Student/Developer, and work as a university trainee in Ecopetrol';
     pronouns = ['he', 'him'];
 }
 
